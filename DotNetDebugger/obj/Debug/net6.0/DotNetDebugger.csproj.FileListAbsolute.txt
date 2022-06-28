@@ -1,0 +1,15 @@
+E:\CodeVault\dotnet learning\DotNetDependencies\DotNetDebugger\bin\Debug\net6.0\DotNetDebugger.exe
+E:\CodeVault\dotnet learning\DotNetDependencies\DotNetDebugger\bin\Debug\net6.0\DotNetDebugger.deps.json
+E:\CodeVault\dotnet learning\DotNetDependencies\DotNetDebugger\bin\Debug\net6.0\DotNetDebugger.runtimeconfig.json
+E:\CodeVault\dotnet learning\DotNetDependencies\DotNetDebugger\bin\Debug\net6.0\DotNetDebugger.dll
+E:\CodeVault\dotnet learning\DotNetDependencies\DotNetDebugger\bin\Debug\net6.0\DotNetDebugger.pdb
+E:\CodeVault\dotnet learning\DotNetDependencies\DotNetDebugger\obj\Debug\net6.0\DotNetDebugger.csproj.AssemblyReference.cache
+E:\CodeVault\dotnet learning\DotNetDependencies\DotNetDebugger\obj\Debug\net6.0\DotNetDebugger.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeVault\dotnet learning\DotNetDependencies\DotNetDebugger\obj\Debug\net6.0\DotNetDebugger.AssemblyInfoInputs.cache
+E:\CodeVault\dotnet learning\DotNetDependencies\DotNetDebugger\obj\Debug\net6.0\DotNetDebugger.AssemblyInfo.cs
+E:\CodeVault\dotnet learning\DotNetDependencies\DotNetDebugger\obj\Debug\net6.0\DotNetDebugger.csproj.CoreCompileInputs.cache
+E:\CodeVault\dotnet learning\DotNetDependencies\DotNetDebugger\obj\Debug\net6.0\DotNetDebugger.dll
+E:\CodeVault\dotnet learning\DotNetDependencies\DotNetDebugger\obj\Debug\net6.0\refint\DotNetDebugger.dll
+E:\CodeVault\dotnet learning\DotNetDependencies\DotNetDebugger\obj\Debug\net6.0\DotNetDebugger.pdb
+E:\CodeVault\dotnet learning\DotNetDependencies\DotNetDebugger\obj\Debug\net6.0\DotNetDebugger.genruntimeconfig.cache
+E:\CodeVault\dotnet learning\DotNetDependencies\DotNetDebugger\obj\Debug\net6.0\ref\DotNetDebugger.dll
