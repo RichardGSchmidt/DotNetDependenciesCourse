@@ -1,0 +1,15 @@
+E:\CodeVault\dotnet learning\DotNetDependencies\IEnumerableTutorial\IEnumerableTutorial\obj\Debug\net6.0\IEnumerableTutorial.csproj.AssemblyReference.cache
+E:\CodeVault\dotnet learning\DotNetDependencies\IEnumerableTutorial\IEnumerableTutorial\obj\Debug\net6.0\IEnumerableTutorial.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeVault\dotnet learning\DotNetDependencies\IEnumerableTutorial\IEnumerableTutorial\obj\Debug\net6.0\IEnumerableTutorial.AssemblyInfoInputs.cache
+E:\CodeVault\dotnet learning\DotNetDependencies\IEnumerableTutorial\IEnumerableTutorial\obj\Debug\net6.0\IEnumerableTutorial.AssemblyInfo.cs
+E:\CodeVault\dotnet learning\DotNetDependencies\IEnumerableTutorial\IEnumerableTutorial\obj\Debug\net6.0\IEnumerableTutorial.csproj.CoreCompileInputs.cache
+E:\CodeVault\dotnet learning\DotNetDependencies\IEnumerableTutorial\IEnumerableTutorial\bin\Debug\net6.0\IEnumerableTutorial.exe
+E:\CodeVault\dotnet learning\DotNetDependencies\IEnumerableTutorial\IEnumerableTutorial\bin\Debug\net6.0\IEnumerableTutorial.deps.json
+E:\CodeVault\dotnet learning\DotNetDependencies\IEnumerableTutorial\IEnumerableTutorial\bin\Debug\net6.0\IEnumerableTutorial.runtimeconfig.json
+E:\CodeVault\dotnet learning\DotNetDependencies\IEnumerableTutorial\IEnumerableTutorial\bin\Debug\net6.0\IEnumerableTutorial.dll
+E:\CodeVault\dotnet learning\DotNetDependencies\IEnumerableTutorial\IEnumerableTutorial\bin\Debug\net6.0\IEnumerableTutorial.pdb
+E:\CodeVault\dotnet learning\DotNetDependencies\IEnumerableTutorial\IEnumerableTutorial\obj\Debug\net6.0\IEnumerableTutorial.dll
+E:\CodeVault\dotnet learning\DotNetDependencies\IEnumerableTutorial\IEnumerableTutorial\obj\Debug\net6.0\refint\IEnumerableTutorial.dll
+E:\CodeVault\dotnet learning\DotNetDependencies\IEnumerableTutorial\IEnumerableTutorial\obj\Debug\net6.0\IEnumerableTutorial.pdb
+E:\CodeVault\dotnet learning\DotNetDependencies\IEnumerableTutorial\IEnumerableTutorial\obj\Debug\net6.0\IEnumerableTutorial.genruntimeconfig.cache
+E:\CodeVault\dotnet learning\DotNetDependencies\IEnumerableTutorial\IEnumerableTutorial\obj\Debug\net6.0\ref\IEnumerableTutorial.dll
